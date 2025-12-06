@@ -1,0 +1,44 @@
+[
+    {
+        "title": "How to prepare for Python exam?",
+        "desc": "Any tips for revision and practice questions?",
+        "user": "Melody Lee",
+        "replies": [
+            {
+                "text": "Try past year papers and review lecture notes.",
+                "user": "Lim Wan Yoke"
+            }
+        ],
+        "likes": 2,
+        "liked_by": [
+            "S002",
+            "S001"
+        ]
+    },
+    {
+        "title": "Share your favorite Python resource!",
+        "desc": "What websites or YouTube channels help you learn Python?",
+        "user": "Mr. Tan",
+        "replies": [
+            {
+                "text": "I recommend Real Python and Corey Schafer's YouTube channel.",
+                "user": "Ng Wei Xian"
+            }
+        ],
+        "likes": 4,
+        "liked_by": [
+            "T001",
+            "S002",
+            "S004",
+            "S003"
+        ]
+    },
+    {
+        "title": "d",
+        "desc": "d",
+        "user": "Mr. Tan",
+        "replies": [],
+        "likes": 0,
+        "liked_by": []
+    }
+]
